@@ -195,3 +195,72 @@ border-radius: 16px 16px 0px 0px;
 .holiday{
     padding-bottom: 50px;
 }
+.our{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+padding: 0px 564px 0px 0px;
+margin: 0px;
+}
+.sub{
+    margin-top: 50px;
+    text-align: center;
+    background-color:rgba(255, 0, 0, 0.05) ;
+}
+.h{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.im{
+    padding-top: 100px;
+}
+.dolor{
+    padding: 0px 200px;
+}
+.input{
+    width: 648px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 50px;
+background: #FFF;
+padding: 0px 36px 18px;
+}
+.subs{
+    border-radius: 0px 50px 50px 0px;
+background: #F00;
+color: #fcfcfc;
+width: 210px;
+height: 72px;
+flex-shrink: 0;
+}
+footer{
+    background: #070211;
+    display: flex;
+    width: 1320px;
+height: 616px;
+flex-shrink: 0;
+
+}
+.fot{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+display: flex;
+padding: 100px 120px;
+}
+.fott{
+    margin-right: 20px;
+}
