@@ -1,0 +1,197 @@
+header {
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin: 50px 0px 0px 0px;
+    border-radius: 16px;
+}
+
+.a {
+    text-align: center;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 177px 0px 0px 0px;
+
+}
+
+.b {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    padding: 0px 300px 177px 300px;
+}
+
+.style {
+    text-align: center;
+    font-family: Inter;
+    line-height: normal;
+    font-style: normal;
+
+
+}
+
+.stylee {
+    text-align: center;
+
+}
+
+.c {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+
+}
+
+.d {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.e {
+    color: #070211;
+    font-size: 48px;
+}
+
+.f {
+    padding-bottom: 49px;
+}
+
+.g {
+    background-image: url('../resources/Vectorrr.png');
+    display: flex;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    margin-bottom: 50px;
+
+
+
+}
+
+.party {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    width: 642px;
+    padding: 16px 0px 0px 26px;
+}
+
+.Year {
+    width: 319.83px;
+    height: 464.662px;
+    padding: 100px 50px 0px 0px;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.text {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    padding-top: 2 width: 697px;
+}
+
+.place {
+    padding: 100px 350px 200px 350px;
+    background-color: rgba(255, 0, 0, 0.10);
+    color: #070211;
+        text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    /* 175% */
+    text-transform: capitalize;
+}
+
+.placee {
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    padding: 15px 0px 110px 0px;
+
+
+}
+.color{
+    color: #F00;
+}
+.btn-primary{
+    background-color: #F00;
+    border:  0px;
+    color: #FFF;
+    border-radius: 8px;
+    text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px; 
+
+}
+.OFFER{
+    padding: 200px;
+    display: flex
+   justify-content: space-around;
+}
+.j{
+    border-radius: 463px;
+border: 15px solid #F00;
+width: 463px;
+height: 463px;
+flex-shrink: 0;
+}
+.sale{
+    text-align: center;
+}
+.sale> h5{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.what{
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 0px;
+}
+.sit{
+    padding: 0px 250px;
+}
+.rectangle{
+    
+   
+}
+.img{
+background-image: url('../resources/Rectangle\ 1.png');
+background-repeat: no-repeat;
+background-position: top right;
+border-radius: 16px 16px 0px 0px;
+
+}
+
+.holiday{
+    padding-bottom: 50px;
+}
